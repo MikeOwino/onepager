@@ -2,6 +2,12 @@
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/MikeOwino/onepager/blob/master/LICENSE)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mikeowino)
+[![Greetings](https://github.com/MikeOwino/onepager/actions/workflows/greetings.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/greetings.yml)
+[![Labeler](https://github.com/MikeOwino/onepager/actions/workflows/label.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/label.yml)
+[![Manual workflow](https://github.com/MikeOwino/onepager/actions/workflows/manual.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/manual.yml)
+[![Mark stale issues and pull requests](https://github.com/MikeOwino/onepager/actions/workflows/stale.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/stale.yml)
+[![Ruby](https://github.com/MikeOwino/onepager/actions/workflows/ruby.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/ruby.yml)
+[![Ruby Gem](https://github.com/MikeOwino/onepager/actions/workflows/gem-push.yml/badge.svg)](https://github.com/MikeOwino/onepager/actions/workflows/gem-push.yml)
 
 This is the fastest and easiest way to get up and running on GitHub Pages.
 Simply generate your own repository by clicking the [![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/MikeOwino/onepager/generate) button, 
